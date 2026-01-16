@@ -1,6 +1,6 @@
 streamlit
 numpy
 PyPDF2
-google-generativeai
+google-genai
 faiss-cpu
 python-dotenv
